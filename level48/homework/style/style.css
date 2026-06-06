@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single+Ink:wght@100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    justify-items: center;
+    justify-content: baseline;
+    background-color: aqua;
+}
+
+.container{
+    border: none;
+    border-radius: 15px;
+    height: 100px;
+    width: 400px;
+    box-shadow: 10px 20px 10px rgb(46, 40, 40);
+    line-height: 600%;
+    margin-top: 20%;
+    background-color: black;
+}
+
+h1{
+    margin-top: 20%;
+    text-align: center;
+}
+
+.bitcount-prop-single-ink-uniquifier {
+    font-family: "Bitcount Prop Single Ink", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0,
+      "CRSV" 0.5,
+      "ELSH" 0,
+      "ELXP" 0,
+      "SZP1" 0,
+      "SZP2" 0,
+      "XPN1" 0,
+      "XPN2" 0,
+      "YPN1" 0,
+      "YPN2" 0;
+  }

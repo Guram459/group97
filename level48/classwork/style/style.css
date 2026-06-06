@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    justify-items: center;
+}
+.container{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    margin-top: 10%;
+}
+
+p{
+    line-height: 200%;
+    text-decoration: underline rgb(255, 2, 2);
+}
+

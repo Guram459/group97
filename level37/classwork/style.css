@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+    justify-self: center;
+}
+
+button{
+    height: 100px;
+    width: 200px;
+    justify-content: space-between;
+    margin-top: 50%;
+    border-radius: 15px;
+    font-size: large;
+}
+
+button:hover{
+    background-color: aquamarine;
+    transform: scale(1.05);
+}

@@ -1,0 +1,9 @@
+.buttonV2{
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+    margin-left: 43%;
+    margin-top: 15%;
+    font-size: 500%;
+    background: blue;
+}
